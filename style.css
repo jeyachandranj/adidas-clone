@@ -75,10 +75,7 @@ h2:hover{
     transition: 1.3s;
 
 }
-h2{
-    letter-spacing: 5px;
-    font-family: 'Times New Roman', Times, serif;
-}
+
 .overlay{
     position: absolute; 
     bottom: 0; 
